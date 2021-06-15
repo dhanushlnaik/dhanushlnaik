@@ -13,11 +13,9 @@
 <img width="55%" align="right" alt="Github" src="https://data.whicdn.com/images/78391406/original.gif" />
 
 
-- 🔭 I’m currently working on My Blog, Github Project
+- 🔭 I’m currently working on Study Not for Discord
 
 - 🌱 I’m currently learning C++ 
-
-- 👯 I’m looking to collaborate on  
 
 - 💬 Talk to me about Python, JavaScript 
 
