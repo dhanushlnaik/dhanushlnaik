@@ -13,7 +13,7 @@
 <img width="55%" align="right" alt="Github" src="https://data.whicdn.com/images/78391406/original.gif" />
 
 
-- 🔭 I’m currently working on Study Not for Discord
+- 🔭 I’m currently working on a DIscord Bot.
 
 - 🌱 I’m currently learning C++ 
 
